@@ -25,6 +25,10 @@ This extension is made for desktop Firefox. It is not designed for Android and m
 
 ## Install
 
+You can download the Firefox-signed version from the [GitHub Releases page](https://github.com/mustafachyi/YT-Audio-Only/releases).
+
+To install from source:
+
 ```sh
 bun install
 ```
@@ -73,7 +77,7 @@ The manifest lists no required data collection.
 
 ## Inspiration
 
-Inspired by [we_firefox_ytop_mv3](https://github.com/schdie/we_firefox_ytop_mv3)
+Inspired by [we_firefox_ytop_mv3](https://github.com/schdie/we_firefox_ytop_mv3).
 
 ## Notes
 
